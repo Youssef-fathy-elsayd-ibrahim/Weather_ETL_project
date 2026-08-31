@@ -1,5 +1,26 @@
 this README.md covers the project overview, architecture, ETL workflow, folder structure, setup, Docker/PostgreSQL, configuration, execution, SQL queries, common errors and fixes, troubleshooting, Git/GitHub guidance, and future improvements.
 
+## Developed an end-to-end Weather ETL Pipeline that extracts forecast data from the Open-Meteo API, transforms and validates weather metrics using Pandas, and loads hourly weather records into PostgreSQL using SQLAlchemy. The project follows industry-standard ETL architecture, uses Docker for database deployment, environment variables for configuration management, and SQL analytics queries for reporting and trend analysis.
+
+
+## Technologies
+-Python
+-Pandas
+-Requests
+-PostgreSQL
+-SQLAlchemy
+-Docker
+-Git & GitHub
+
+## Concepts Demonstrated
+-ETL Pipelines
+-API Integration
+-Data Cleaning & Validation
+-Relational Databases
+-SQL Analytics
+-Containerization
+-Version Control
+
 # Weather ETL Project
 
 A Python-based **ETL (Extract, Transform, Load) pipeline** that retrieves hourly weather forecast data from the **Open-Meteo API**, transforms and validates the data using Pandas, and loads it into a PostgreSQL data warehouse running inside Docker.
