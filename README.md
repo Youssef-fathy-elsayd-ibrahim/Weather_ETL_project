@@ -4,22 +4,22 @@ this README.md covers the project overview, architecture, ETL workflow, folder s
 
 
 ## Technologies
--Python
--Pandas
--Requests
--PostgreSQL
--SQLAlchemy
--Docker
--Git & GitHub
+* Python
+* Pandas
+* Requests
+* PostgreSQL
+* SQLAlchemy
+* Docker
+* Git & GitHub
 
 ## Concepts Demonstrated
--ETL Pipelines
--API Integration
--Data Cleaning & Validation
--Relational Databases
--SQL Analytics
--Containerization
--Version Control
+* ETL Pipelines
+* API Integration
+* Data Cleaning & Validation
+* Relational Databases
+* SQL Analytics
+* Containerization
+* Version Control
 
 # Weather ETL Project
 
