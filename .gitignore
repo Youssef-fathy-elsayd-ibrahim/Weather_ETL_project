@@ -3,6 +3,7 @@
 
 # Python virtual environment
 .venv/
+.venv-clean/
 venv/
 
 # Python cache

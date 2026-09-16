@@ -40,7 +40,7 @@ def load_weather_data():
         wind_speed_kmh,
         weather_code,
         loaded_at
-    FROM weather_hourly
+    FROM public.weather_hourly
     ORDER BY observed_at 
     """
 
